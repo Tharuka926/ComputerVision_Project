@@ -50,6 +50,7 @@ def getContours(img):
             print(len(approx))
             objCor = len(approx)
             x, y, w, h, = cv2.boundingRect(approx)
+
             if (objCor == 3): 
                 ObjectType = "Triangle"
 
