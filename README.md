@@ -1,5 +1,5 @@
 # Computer Vision Projects
-Scan document from live video feed and draw on air with a camera. These projects are available under their respective roject folders. The files not included in the project folders were implemented as part of the learning process for understnding the tools and functions of OpenCV.
+Scan document from live video feed and draw on air with a camera. These projects are available under their respective roject folders. The files not included in the project folders were implemented as part of the learning process for understanding the tools and functions of OpenCV.
 
 ## Overview 
 Beginner projects to develop a better understanding of the OpenCV library
